@@ -2,9 +2,9 @@
 @font-face {
   font-family: 'SAP Fiori Icons';
   src:
-    url('https://github.com/vivendran/sac-fonts/new/master/sap-icons/v1/SAP-icons.woff2') format('woff2'),
-    url('https://github.com/vivendran/sac-fonts/new/master/sap-icons/v1/SAP-icons.woff') format('woff'),
-    url('https://github.com/vivendran/sac-fonts/new/master/sap-icons/v1/SAP-icons.ttf') format('truetype');
+    url('https://github.com/vivendran/sac-fonts/blob/master/sap-icons/v1/SAP-icons.woff2') format('woff2'),
+    url('https://github.com/vivendran/sac-fonts/blob/master/sap-icons/v1/SAP-icons.woff') format('woff'),
+    url('https://github.com/vivendran/sac-fonts/blob/master/sap-icons/v1/SAP-icons.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
