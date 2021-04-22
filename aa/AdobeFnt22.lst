@@ -1,0 +1,166 @@
+%!Adobe-FontList 1.22
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:AASmartSans-Bold
+FamilyName:AA Smart Sans
+StyleName:Bold
+MenuName:AA Smart Sans Bold
+StyleBits:0
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:AA Smart Sans Bold
+WritingScript:Roman
+OutlineFileName:/Users/lewis.llewellyn/Downloads/Newsletter Spreads_A4/210224_AA_Newsletter Spreads_A4_Final Folder/Document fonts/AASmartSans-Bold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:59304
+FileModTime:635847104
+NameArray:0,Mac,4,AA Smart Sans Bold
+NameArray:0,Win,1,AA Smart Sans Bold
+NameArray:0,Win,16,AA Smart Sans
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:AASmartSans-Light
+FamilyName:AA Smart Sans
+StyleName:Light
+MenuName:AA Smart Sans Light
+StyleBits:0
+WeightClass:300
+WidthClass:5
+AngleClass:0
+FullName:AA Smart Sans Light
+WritingScript:Roman
+OutlineFileName:/Users/lewis.llewellyn/Downloads/Newsletter Spreads_A4/210224_AA_Newsletter Spreads_A4_Final Folder/Document fonts/AASmartSans-Light.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:60408
+FileModTime:635847100
+NameArray:0,Mac,4,AA Smart Sans Light
+NameArray:0,Win,1,AA Smart Sans Light
+NameArray:0,Win,16,AA Smart Sans
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:AASmartSans-Regular
+FamilyName:AA Smart Sans
+StyleName:Regular
+MenuName:AA Smart Sans
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:AA Smart Sans Regular
+WritingScript:Roman
+OutlineFileName:/Users/lewis.llewellyn/Downloads/Newsletter Spreads_A4/210224_AA_Newsletter Spreads_A4_Final Folder/Document fonts/AASmartSans-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:59820
+FileModTime:635847100
+NameArray:0,Mac,4,AA Smart Sans Regular
+NameArray:0,Win,1,AA Smart Sans
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:AASmartSans-SemiBold
+FamilyName:AA Smart Sans
+StyleName:SemiBold
+MenuName:AA Smart Sans SemiBold
+StyleBits:0
+WeightClass:600
+WidthClass:5
+AngleClass:0
+FullName:AA Smart Sans SemiBold
+WritingScript:Roman
+OutlineFileName:/Users/lewis.llewellyn/Downloads/Newsletter Spreads_A4/210224_AA_Newsletter Spreads_A4_Final Folder/Document fonts/AASmartSans-SemiBold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:60584
+FileModTime:635847100
+NameArray:0,Mac,4,AA Smart Sans SemiBold
+NameArray:0,Win,1,AA Smart Sans SemiBold
+NameArray:0,Win,16,AA Smart Sans
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:AASmartSansHead-Light
+FamilyName:AA Smart Sans Head
+StyleName:Light
+MenuName:AA Smart Sans Head Light
+StyleBits:0
+WeightClass:300
+WidthClass:5
+AngleClass:0
+FullName:AA Smart Sans Head Light
+WritingScript:Roman
+OutlineFileName:/Users/lewis.llewellyn/Downloads/Newsletter Spreads_A4/210224_AA_Newsletter Spreads_A4_Final Folder/Document fonts/AASmartSansHead-Light.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:63420
+FileModTime:635847304
+NameArray:0,Mac,4,AA Smart Sans Head Light
+NameArray:0,Win,1,AA Smart Sans Head Light
+NameArray:0,Win,16,AA Smart Sans Head
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:AASmartSansHead-Thin
+FamilyName:AA Smart Sans Head
+StyleName:Thin
+MenuName:AA Smart Sans Head Thin
+StyleBits:0
+WeightClass:100
+WidthClass:5
+AngleClass:0
+FullName:AA Smart Sans Head Thin
+WritingScript:Roman
+OutlineFileName:/Users/lewis.llewellyn/Downloads/Newsletter Spreads_A4/210224_AA_Newsletter Spreads_A4_Final Folder/Document fonts/AASmartSansHead-Thin.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:62784
+FileModTime:635847304
+NameArray:0,Mac,4,AA Smart Sans Head Thin
+NameArray:0,Win,1,AA Smart Sans Head Thin
+NameArray:0,Win,16,AA Smart Sans Head
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:/Users/lewis.llewellyn/Downloads/Newsletter Spreads_A4/210224_AA_Newsletter Spreads_A4_Final Folder/Document fonts/AdobeFnt22.lst
+FileLength:4045
+FileModTime:636555882
+%EndFont
+
